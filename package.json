@@ -1,7 +1,7 @@
 {
-  "name": "twinpics",
+  "name": "bisite_template",
   "version": "1.0.0",
-  "description": "TWINPICS platform",
+  "description": "TypeScript + express + nodeJS + Mongo BISITE Template",
   "scripts": {
     "clean": "rimraf dist/*",
     "lint": "tsc --noEmit && eslint \"**/*.{js,ts}\" --quiet --fix",
